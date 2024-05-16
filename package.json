@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "npm run test"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mattm479/note-taker.git"
@@ -14,8 +11,5 @@
   "dependencies": {
     "express": "^4.19.2",
     "uuid": "^9.0.1"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
   }
 }
